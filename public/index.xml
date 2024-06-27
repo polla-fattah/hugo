@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.126.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 22:51:50 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Wed, 26 Jun 2024 22:51:50 +0300</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>First post This is the first post.
+int x = 5; Second section This is the second section.
+Third section This is the third section. It provides additional information about the topic discussed in the previous sections. It delves deeper into the subject matter and offers insights or examples to support the main points.
+Fourth section In this section, we explore another aspect of the topic. We discuss its implications, potential challenges, or alternative approaches.</description>
+    </item>
+  </channel>
+</rss>
